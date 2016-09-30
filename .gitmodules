@@ -1,0 +1,45 @@
+[submodule "rtl-sdr"]
+	path = rtl-sdr
+	url = https://github.com/osmocom/rtl-sdr.git
+[submodule "gnuradio"]
+	path = gnuradio
+	url = http://git.gnuradio.org/git/gnuradio.git
+[submodule "gr-iqbal"]
+	path = gr-iqbal
+	url = https://github.com/osmocom/gr-iqbal.git
+[submodule "gr-osmosdr"]
+	path = gr-osmosdr
+	url = https://github.com/osmocom/gr-osmosdr.git
+[submodule "gr-baz"]
+	path = gr-baz
+	url = https://github.com/balint256/gr-baz.git
+[submodule "gr-rds"]
+	path = gr-rds
+	url = https://github.com/bastibl/gr-rds.git
+[submodule "uhd"]
+	path = uhd
+	url = https://github.com/EttusResearch/uhd
+[submodule "gqrx"]
+	path = gqrx
+	url = https://github.com/csete/gqrx.git
+[submodule "liquid-dsp"]
+	path = liquid-dsp
+	url = https://github.com/jgaeddert/liquid-dsp.git
+[submodule "redsea"]
+	path = redsea
+	url = https://github.com/windytan/redsea.git
+[submodule "inspectrum"]
+	path = inspectrum
+	url = https://github.com/miek/inspectrum.git
+[submodule "dspectrum"]
+	path = dspectrum
+	url = https://github.com/tresacton/dspectrum.git
+[submodule "rtl_433"]
+	path = rtl_433
+	url = https://github.com/merbanan/rtl_433.git
+[submodule "kalibrate-rtl"]
+	path = kalibrate-rtl
+	url = https://github.com/mutability/kalibrate-rtl.git
+[submodule "dump1090"]
+	path = dump1090
+	url = https://github.com/antirez/dump1090.git
