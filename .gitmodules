@@ -1,5 +1,5 @@
 [submodule "rtl-sdr"]
-	path = rtl-sdr
+	path = rtl-sdr-osmocom
 	url = https://github.com/osmocom/rtl-sdr.git
 [submodule "gnuradio"]
 	path = gnuradio
