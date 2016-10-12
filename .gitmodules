@@ -43,3 +43,6 @@
 [submodule "dump1090"]
 	path = dump1090
 	url = https://github.com/antirez/dump1090.git
+[submodule "rtl-sdr-rtlsdrblog"]
+	path = rtl-sdr-rtlsdrblog
+	url = https://github.com/rtlsdrblog/rtl-sdr.git
