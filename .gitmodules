@@ -46,3 +46,6 @@
 [submodule "rtl-sdr-rtlsdrblog"]
 	path = rtl-sdr-rtlsdrblog
 	url = https://github.com/rtlsdrblog/rtl-sdr.git
+[submodule "multimon-ng"]
+	path = multimon-ng
+	url = https://github.com/EliasOenal/multimon-ng
