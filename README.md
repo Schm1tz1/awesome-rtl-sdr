@@ -22,6 +22,7 @@ The installer script is based on my [checkout-an-build-script](https://gist.gith
 
 # Command-Line Tools
 * [Kalibrate-RTL](http://github.com/mutability/kalibrate-rtl)
+* [Multimon NG](http://github.com/EliasOenal/multimon-ng)
 * [RTL 433](http://github.com/merbanan/rtl_433)
 * [redsea RDS-decoder](http://github.com/windytan/redsea)
 
