@@ -19,10 +19,12 @@ The installer script is based on my [checkout-an-build-script](https://gist.gith
 * [gr-osmosdr](http://github.com/osmocom/gr-osmosdr)
 * [gr-baz](http://github.com/balint256/gr-baz)
 * [gr-rds](http://github.com/bastibl/gr-rds)
+* [gr-air-modes](http://github.com/bistromath/gr-air-modes)
 
 # Command-Line Tools
 * [Kalibrate-RTL](http://github.com/mutability/kalibrate-rtl)
 * [Multimon NG](http://github.com/EliasOenal/multimon-ng)
+* [dump1090 ADS-B receiver](http://github.com/antirez/dump1090)
 * [RTL 433](http://github.com/merbanan/rtl_433)
 * [redsea RDS-decoder](http://github.com/windytan/redsea)
 
