@@ -1,6 +1,6 @@
 # rtl-sdr-tools
 Software (meta-)package for RTL-SDR with some additional scripts and installers.
-The installer script is based on my [checkout-an-build-script](https://gist.github.com/Schm1tz1/5f307d5a6cf7c97cb2991781ff6ca828).
+The installer script is based on my [checkout-and-build-script](https://gist.github.com/Schm1tz1/5f307d5a6cf7c97cb2991781ff6ca828).
 
 # Contents
 * [Drivers](#drivers)
