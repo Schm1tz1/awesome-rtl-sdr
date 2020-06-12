@@ -24,6 +24,7 @@ The installer script is based on my [checkout-an-build-script](https://gist.gith
 
 # Command-Line Tools
 * [HackRF Drivers and Tools](https://github.com/mossmann/hackrf)
+* [RX Tools](https://github.com/rxseger/rx_tools)
 * [Kalibrate-RTL](http://github.com/mutability/kalibrate-rtl)
 * [Multimon NG](http://github.com/EliasOenal/multimon-ng)
 * [dump1090 ADS-B receiver](http://github.com/antirez/dump1090)
