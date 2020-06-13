@@ -55,3 +55,9 @@
 [submodule "qspectrumanalyzer"]
 	path = qspectrumanalyzer
 	url = https://github.com/xmikos/qspectrumanalyzer/
+[submodule "rx_tools"]
+	path = rx_tools
+	url = https://github.com/rxseger/rx_tools
+[submodule "hackrf-spectrum-analyzer"]
+	path = hackrf-spectrum-analyzer
+	url = https://github.com/pavsa/hackrf-spectrum-analyzer.git
