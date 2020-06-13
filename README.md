@@ -1,6 +1,6 @@
 # rtl-sdr-tools
 Software (meta-)package for RTL-SDR with some additional scripts and installers.
-The installer script is based on my [checkout-an-build-script](https://gist.github.com/Schm1tz1/5f307d5a6cf7c97cb2991781ff6ca828).
+The installer script is based on my [checkout-and-build-script](https://gist.github.com/Schm1tz1/5f307d5a6cf7c97cb2991781ff6ca828).
 
 # Contents
 * [Drivers](#drivers)
@@ -12,6 +12,7 @@ The installer script is based on my [checkout-an-build-script](https://gist.gith
 * [UHD](http://github.com/EttusResearch/uhd)
 * [RTL-SDR from Osmocom](http://github.com/osmocom/rtl-sdr)
 * [RTL-SDR from RTLSDR-Blog (fork of Keenerd-Driver)](http://github.com/osmocom/rtl-sdr)
+* [HackRF Drivers and Tools](https://github.com/mossmann/hackrf)
 
 # GNU Radio
 * [GNU Radio](http://git.gnuradio.org/git/gnuradio)
@@ -22,6 +23,8 @@ The installer script is based on my [checkout-an-build-script](https://gist.gith
 * [gr-air-modes](http://github.com/bistromath/gr-air-modes)
 
 # Command-Line Tools
+* [HackRF Drivers and Tools](https://github.com/mossmann/hackrf)
+* [RX Tools](https://github.com/rxseger/rx_tools)
 * [Kalibrate-RTL](http://github.com/mutability/kalibrate-rtl)
 * [Multimon NG](http://github.com/EliasOenal/multimon-ng)
 * [dump1090 ADS-B receiver](http://github.com/antirez/dump1090)
@@ -34,3 +37,4 @@ The installer script is based on my [checkout-an-build-script](https://gist.gith
 * [Baudline](http://www.baudline.com/)
 * [Inspectrum](http://github.com/miek/inspectrum)
 * [dspectrum (for inspectrum)](http://github.com/tresacton/dspectrum)
+* [QSpectrumAnalyzer (uses hackrf_sweep)](https://github.com/xmikos/qspectrumanalyzer/)
